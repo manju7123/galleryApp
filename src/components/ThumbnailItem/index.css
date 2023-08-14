@@ -1,0 +1,16 @@
+.item {
+  list-style-type: none;
+  margin-right: 10px;
+}
+.btn {
+  outline: none;
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+}
+.thumb-image {
+  opacity: 0.5;
+}
+.opa-btn {
+  opacity: 1;
+}

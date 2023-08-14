@@ -1,0 +1,28 @@
+.bg-container {
+  min-height: 100vh;
+  padding: 40px;
+}
+.card {
+  width: 100%;
+}
+.image {
+  width: 100%;
+}
+.title {
+  font-size: 32px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #1e293b;
+}
+.description {
+  font-size: 14px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #64748b;
+  margin-bottom: 10px;
+}
+.list-items {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
